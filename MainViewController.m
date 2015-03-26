@@ -9,8 +9,11 @@
 
 #import "MainViewController.h"
 
-NSString *client_id = @"2sVEcZDhudTeScaMShpd3w";
-NSString *secret = @"CVqonV4B8wDxSnwzzXCC2uhak8H22R1gXhbsCSF1400";
+//NSString *client_id = @"2sVEcZDhudTeScaMShpd3w";
+//NSString *secret = @"CVqonV4B8wDxSnwzzXCC2uhak8H22R1gXhbsCSF1400";
+NSString *client_id = @"0tABlJ4f79FprAqRBwRkxxPod";
+NSString *secret = @"D6JIVTpb4lCOyf8fZ0YkSWlS9n0aZCaKwEe7vZD6qs8qEzZTA2";
+
 NSString *callback = @"http://codegerms.com/callback";
 
 
